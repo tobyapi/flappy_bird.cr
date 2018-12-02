@@ -1,0 +1,13 @@
+name: flappy_bird
+version: 0.1.0
+
+authors:
+  - TobiasGSmollett <landofscala@gmail.com>
+
+targets:
+  flappy_bird:
+    main: src/flappy_bird.cr
+
+crystal: 0.26.1
+
+license: MIT
